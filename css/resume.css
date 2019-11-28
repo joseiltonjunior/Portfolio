@@ -178,3 +178,7 @@ a:hover, a:focus, a:active {
 section #exp {
   padding-top: 80px;
 }
+
+#sideNav {
+  background-color: #222;
+}
